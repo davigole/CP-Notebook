@@ -1,0 +1,7 @@
+.vscode/
+.cph/
+*.in
+*.out
+*.exe
+*.bin
+tempCodeRunnerFile.cpp
