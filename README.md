@@ -1,4 +1,4 @@
-# Competitive Programming Notebook
+# Competitive Programming Notebook 🗒️
 
 A collection of resources for IOI preparation
 
@@ -17,7 +17,7 @@ A collection of resources for IOI preparation
  - [APIO](https://oj.uz/problems/source/26)
  - [OBI](https://olimpiada.ic.unicamp.br/pratique/p2/) (Portuguese only)
 
-### Theory 📚
+## Theory 📚
  - [USACO Guide](https://usaco.guide)
  - [CP Algorithms](https://cp-algorithms.com/)
  - [GeeksForGeeks](https://geeksforgeeks.org/)
