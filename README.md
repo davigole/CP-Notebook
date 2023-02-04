@@ -18,8 +18,15 @@ A collection of resources for IOI preparation
  - [OBI](https://olimpiada.ic.unicamp.br/pratique/p2/) (Portuguese only)
 
 ## Theory 📚
- - [USACO Guide](https://usaco.guide)
+ - [USACO Guide](https://usaco.guide) ⭐
  - [CP Algorithms](https://cp-algorithms.com/)
  - [GeeksForGeeks](https://geeksforgeeks.org/)
  - [VisuAlgo](https://visualgo.net/en)
  - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
+
+#### YouTube Channels 📽️
+ - [Errichto](https://www.youtube.com/@Errichto)
+ - [Errichto 2](https://www.youtube.com/@Errichto2)
+ - [William Lin](https://www.youtube.com/@tmwilliamlin168)
+ - [William Fiset](https://www.youtube.com/@WilliamFiset-videos)
+ - [CS Dojo](https://www.youtube.com/@CSDojo)
